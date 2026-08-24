@@ -1,9 +1,9 @@
 name = "nerzov-platform"
 compatibility_date = "2026-08-25"
-pages_build_output_dir = "dist"
 
-[vars]
-ENVIRONMENT = "production"
+[assets]
+directory = "./dist"
+not_found_handling = "single-page-application"
 
 [[d1_databases]]
 binding = "DB"
