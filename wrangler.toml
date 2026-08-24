@@ -8,7 +8,7 @@ ENVIRONMENT = "production"
 [[d1_databases]]
 binding = "DB"
 database_name = "nerzov-db"
-database_id = "তোমার আসল D1 DATABASE ID"
+database_id = "0bf4fc48-720b-45e2-865a-f2374d57c421"
 
 [[r2_buckets]]
 binding = "R2_ASSETS"
